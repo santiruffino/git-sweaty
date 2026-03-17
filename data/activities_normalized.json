@@ -15741,5 +15741,18 @@
     "start_date_local": "2026-03-12T19:26:35",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 10012.509765625,
+    "elevation_gain": 10.0,
+    "id": "22197139412",
+    "moving_time": 2993.584991455078,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-16T18:34:21",
+    "type": "Run",
+    "year": 2026
   }
 ]
