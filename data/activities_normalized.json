@@ -15754,5 +15754,44 @@
     "start_date_local": "2026-03-16T18:34:21",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 17121.30078125,
+    "elevation_gain": 30.0,
+    "id": "22326874705",
+    "moving_time": 5395.270984649658,
+    "name": "Cordoba - Trote suave 1:30h",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-28T08:12:04",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 12762.0703125,
+    "elevation_gain": 11.0,
+    "id": "22354505858",
+    "moving_time": 3598.708999633789,
+    "name": "Cordoba - 5x1400",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-30T19:18:00",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 11620.5400390625,
+    "elevation_gain": 44.0,
+    "id": "22366030352",
+    "moving_time": 3603.39599609375,
+    "name": "Cordoba - Trote suave 1h",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-31T19:12:05",
+    "type": "Run",
+    "year": 2026
   }
 ]

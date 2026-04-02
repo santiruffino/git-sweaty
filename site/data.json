@@ -10907,6 +10907,33 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22197139412",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 8,
+      "name": "Cordoba - Trote suave 1:30h",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22326874705",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 19,
+      "name": "Cordoba - 5x1400",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22354505858",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-31",
+      "hour": 19,
+      "name": "Cordoba - Trote suave 1h",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22366030352",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20324,6 +20351,33 @@
           "distance": 10012.509765625,
           "elevation_gain": 10.0,
           "moving_time": 2993.584991455078
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "22326874705"
+          ],
+          "count": 1,
+          "distance": 17121.30078125,
+          "elevation_gain": 30.0,
+          "moving_time": 5395.270984649658
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "22354505858"
+          ],
+          "count": 1,
+          "distance": 12762.0703125,
+          "elevation_gain": 11.0,
+          "moving_time": 3598.708999633789
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "22366030352"
+          ],
+          "count": 1,
+          "distance": 11620.5400390625,
+          "elevation_gain": 44.0,
+          "moving_time": 3603.39599609375
         }
       },
       "TrailRun": {
@@ -20668,7 +20722,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-03-17T16:04:22.298343+00:00",
+  "generated_at": "2026-04-02T15:58:55.540793+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
