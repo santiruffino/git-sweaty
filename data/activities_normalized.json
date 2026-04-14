@@ -15871,5 +15871,44 @@
     "start_date_local": "2026-04-11T16:26:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 3021.06005859375,
+    "elevation_gain": 3.0,
+    "id": "22516524181",
+    "moving_time": 913.0630187988281,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-13T18:48:15",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 2998.699951171875,
+    "elevation_gain": 8.000030517578125,
+    "id": "22516525211",
+    "moving_time": 649.0,
+    "name": "Cordoba - Test VAM (3k)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-13T19:12:59",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 2389.110107421875,
+    "elevation_gain": 1.0,
+    "id": "22516527074",
+    "moving_time": 811.4580078125,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-13T19:26:23",
+    "type": "Run",
+    "year": 2026
   }
 ]
