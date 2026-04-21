@@ -15936,5 +15936,18 @@
     "start_date_local": "2026-04-18T08:30:52",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 10665.4404296875,
+    "elevation_gain": 34.0,
+    "id": "22599214403",
+    "moving_time": 2915.2769927978516,
+    "name": "Cordoba - 4x1600 | R3'",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-20T18:19:31",
+    "type": "Run",
+    "year": 2026
   }
 ]
