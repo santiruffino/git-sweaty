@@ -10497,7 +10497,7 @@
     {
       "date": "2026-01-19",
       "hour": 19,
-      "name": "Cordoba - UAN (10K) \ud83d\udd25",
+      "name": "Cordoba - Test UAN (10K) \ud83d\udd25",
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/21602706985",
@@ -10909,6 +10909,69 @@
       "year": 2026
     },
     {
+      "date": "2026-03-17",
+      "hour": 18,
+      "name": "Cordoba - CR 2' x 3'",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22209039314",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 17,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22220120574",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 18,
+      "name": "Cordoba Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22232195043",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 8,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22236902266",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 8,
+      "name": "Cordoba - Trote suave 1h10m",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22248492760",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 19,
+      "name": "Cordoba - 6x1200m | R2'",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22277433524",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 18,
+      "name": "Cordoba Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22289057292",
+      "year": 2026
+    },
+    {
       "date": "2026-03-28",
       "hour": 8,
       "name": "Cordoba - Trote suave 1:30h",
@@ -11050,6 +11113,15 @@
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22612239798",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 17,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/22624235049",
       "year": 2026
     }
   ],
@@ -20469,6 +20541,51 @@
           "elevation_gain": 10.0,
           "moving_time": 2993.584991455078
         },
+        "2026-03-17": {
+          "activity_ids": [
+            "22209039314"
+          ],
+          "count": 1,
+          "distance": 12552.400390625,
+          "elevation_gain": 48.0,
+          "moving_time": 3591.3160095214844
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "22232195043"
+          ],
+          "count": 1,
+          "distance": 9924.830078125,
+          "elevation_gain": 40.0,
+          "moving_time": 3021.7039794921875
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "22248492760"
+          ],
+          "count": 1,
+          "distance": 15250.580078125,
+          "elevation_gain": 131.0,
+          "moving_time": 4793.77897644043
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "22277433524"
+          ],
+          "count": 1,
+          "distance": 13431.8701171875,
+          "elevation_gain": 14.0,
+          "moving_time": 3706.740001678467
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "22289057292"
+          ],
+          "count": 1,
+          "distance": 12164.830078125,
+          "elevation_gain": 72.0,
+          "moving_time": 3590.4230041503906
+        },
         "2026-03-28": {
           "activity_ids": [
             "22326874705"
@@ -20927,6 +21044,24 @@
           "elevation_gain": 0.0,
           "moving_time": 3461.507080078125
         },
+        "2026-03-18": {
+          "activity_ids": [
+            "22220120574"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3620.320068359375
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            "22236902266"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3371.990966796875
+        },
         "2026-04-10": {
           "activity_ids": [
             "22476592087"
@@ -20935,12 +21070,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2881.862060546875
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "22624235049"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3709.85888671875
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-04-22T16:08:01.642227+00:00",
+  "generated_at": "2026-04-23T16:27:59.757367+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
