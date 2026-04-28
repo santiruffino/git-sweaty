@@ -16105,5 +16105,31 @@
     "start_date_local": "2026-04-25T09:05:29",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 2004.75,
+    "elevation_gain": 2.0,
+    "id": "22683450714",
+    "moving_time": 611.0,
+    "name": "Cordoba - 4x2000 | R3'",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-27T18:12:39",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 8087.919921875,
+    "elevation_gain": 7.0,
+    "id": "22683451710",
+    "moving_time": 1914.7230072021484,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-27T18:38:40",
+    "type": "Run",
+    "year": 2026
   }
 ]
