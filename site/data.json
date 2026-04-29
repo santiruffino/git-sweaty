@@ -11168,6 +11168,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22683451710",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 19,
+      "name": "Cordoba - Trote suave 1h",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22695848914",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20759,6 +20768,15 @@
           "distance": 10092.669921875,
           "elevation_gain": 9.0,
           "moving_time": 2525.7230072021484
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "22695848914"
+          ],
+          "count": 1,
+          "distance": 13813.9697265625,
+          "elevation_gain": 51.0,
+          "moving_time": 4197.92100584507
         }
       },
       "TrailRun": {
@@ -21166,7 +21184,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-04-28T16:49:07.084145+00:00",
+  "generated_at": "2026-04-29T16:26:11.439438+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",

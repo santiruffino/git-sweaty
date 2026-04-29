@@ -16131,5 +16131,18 @@
     "start_date_local": "2026-04-27T18:38:40",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 13813.9697265625,
+    "elevation_gain": 51.0,
+    "id": "22695848914",
+    "moving_time": 4197.92100584507,
+    "name": "Cordoba - Trote suave 1h",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-28T19:06:04",
+    "type": "Run",
+    "year": 2026
   }
 ]
