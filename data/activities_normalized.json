@@ -16157,5 +16157,18 @@
     "start_date_local": "2026-04-29T17:36:51",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 9110.0,
+    "elevation_gain": 0.0,
+    "id": "22719445987",
+    "moving_time": 2272.738998413086,
+    "name": "Cordoba - 8x800 | R2'",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-04-30T18:57:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
