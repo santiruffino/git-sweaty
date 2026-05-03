@@ -11195,6 +11195,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22719445987",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 17,
+      "name": "San Javier - Easy Run 20k",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22743052908",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20804,6 +20813,15 @@
           "distance": 9110.0,
           "elevation_gain": 0.0,
           "moving_time": 2272.738998413086
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "22743052908"
+          ],
+          "count": 1,
+          "distance": 21055.55078125,
+          "elevation_gain": 120.0,
+          "moving_time": 6365.7999267578125
         }
       },
       "TrailRun": {
@@ -21220,7 +21238,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-05-02T15:43:08.884214+00:00",
+  "generated_at": "2026-05-03T15:44:26.953020+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
