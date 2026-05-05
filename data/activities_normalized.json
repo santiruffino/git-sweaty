@@ -16183,5 +16183,18 @@
     "start_date_local": "2026-05-02T17:36:14",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 9572.6904296875,
+    "elevation_gain": 11.0,
+    "id": "22766580666",
+    "moving_time": 2681.3920135498047,
+    "name": "Cordoba - 3x2000 | R3'",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-04T18:49:39",
+    "type": "Run",
+    "year": 2026
   }
 ]
