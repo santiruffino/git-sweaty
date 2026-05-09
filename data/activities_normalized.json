@@ -16209,5 +16209,31 @@
     "start_date_local": "2026-05-07T18:24:41",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "22813062406",
+    "moving_time": 4039.556884765625,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-08T17:03:07",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 14314.5302734375,
+    "elevation_gain": 85.0,
+    "id": "22822009383",
+    "moving_time": 4291.950988769531,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-09T10:16:38",
+    "type": "Run",
+    "year": 2026
   }
 ]
