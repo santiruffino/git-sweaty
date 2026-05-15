@@ -16300,5 +16300,18 @@
     "start_date_local": "2026-05-13T08:20:09",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 9190.0,
+    "elevation_gain": 0.0,
+    "id": "22883576281",
+    "moving_time": 2183.189010620117,
+    "name": "Cordoba - 5x600m (x2) | R2' | R5'",
+    "raw_activity_type": "track_running",
+    "raw_type": "track_running",
+    "start_date_local": "2026-05-14T17:24:06",
+    "type": "Run",
+    "year": 2026
   }
 ]
