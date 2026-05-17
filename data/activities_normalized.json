@@ -16313,5 +16313,18 @@
     "start_date_local": "2026-05-14T17:24:06",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 10044.7900390625,
+    "elevation_gain": 17.0,
+    "id": "22912919530",
+    "moving_time": 2239.280014038086,
+    "name": "General San Mart\u00edn - Villa Maria Corre",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-17T09:01:07",
+    "type": "Run",
+    "year": 2026
   }
 ]
