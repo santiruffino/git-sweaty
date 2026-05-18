@@ -11298,7 +11298,7 @@
     {
       "date": "2026-05-17",
       "hour": 9,
-      "name": "General San Mart\u00edn - Villa Maria Corre",
+      "name": "Villa Maria Corre",
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/22912919530",
@@ -21430,7 +21430,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-05-17T15:57:16.977347+00:00",
+  "generated_at": "2026-05-18T17:28:39.531739+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
