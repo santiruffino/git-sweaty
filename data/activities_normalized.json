@@ -16365,5 +16365,18 @@
     "start_date_local": "2026-05-21T18:17:18",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 23118.119140625,
+    "elevation_gain": 93.0,
+    "id": "22986214415",
+    "moving_time": 6861.011993408203,
+    "name": "Cordoba - Easy Run 23k",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-23T11:21:17",
+    "type": "Run",
+    "year": 2026
   }
 ]
