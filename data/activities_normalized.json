@@ -16378,5 +16378,18 @@
     "start_date_local": "2026-05-23T11:21:17",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 8229.91015625,
+    "elevation_gain": 23.0,
+    "id": "23008575235",
+    "moving_time": 2089.1329956054688,
+    "name": "Cordoba - 5x1000 | R2'",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-25T11:29:06",
+    "type": "Run",
+    "year": 2026
   }
 ]
