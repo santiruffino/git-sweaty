@@ -16417,5 +16417,31 @@
     "start_date_local": "2026-05-27T17:44:11",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 9502.2197265625,
+    "elevation_gain": 29.0,
+    "id": "23049572374",
+    "moving_time": 2428.1209869384766,
+    "name": "Cordoba - 4x1800 | R3'",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-28T18:06:59",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23055600510",
+    "moving_time": 3502.366943359375,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-05-29T08:12:49",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
