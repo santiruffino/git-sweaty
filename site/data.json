@@ -11402,6 +11402,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23097290891",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 18,
+      "name": "Treadmill Running",
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "url": "https://connect.garmin.com/modern/activity/23109076207",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 18,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/23109806667",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21376,6 +21394,15 @@
           "distance": 7834.8798828125,
           "elevation_gain": 327.0,
           "moving_time": 2388.7950134277344
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "23109076207"
+          ],
+          "count": 1,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 564.0
         }
       },
       "WeightTraining": {
@@ -21612,6 +21639,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3502.366943359375
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "23109806667"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1312.758056640625
         }
       },
       "multi_sport": {
@@ -21628,7 +21664,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-06-02T18:37:59.258728+00:00",
+  "generated_at": "2026-06-03T18:41:54.591367+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
