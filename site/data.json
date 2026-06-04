@@ -11420,6 +11420,15 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/23109806667",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 17,
+      "name": "Fuerza",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/23121335633",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21648,6 +21657,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1312.758056640625
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "23121335633"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3451.991943359375
         }
       },
       "multi_sport": {
@@ -21664,7 +21682,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-06-03T18:41:54.591367+00:00",
+  "generated_at": "2026-06-04T17:44:13.689808+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
