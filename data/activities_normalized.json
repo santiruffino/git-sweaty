@@ -16547,5 +16547,18 @@
     "start_date_local": "2026-06-08T17:24:21",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 8431.9404296875,
+    "elevation_gain": 11.0,
+    "id": "23193709034",
+    "moving_time": 2714.3319702148438,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-09T19:06:13",
+    "type": "Run",
+    "year": 2026
   }
 ]
