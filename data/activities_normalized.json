@@ -16599,5 +16599,31 @@
     "start_date_local": "2026-06-15T17:30:46",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 10108.3896484375,
+    "elevation_gain": 29.0,
+    "id": "23288736735",
+    "moving_time": 2866.8829956054688,
+    "name": "Cordoba - CR 2'\ud83d\udd25 + 3' \ud83d\udc22 (x6)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-16T18:36:48",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23288737213",
+    "moving_time": 3986.867919921875,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-06-17T17:30:36",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
