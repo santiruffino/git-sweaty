@@ -16664,5 +16664,18 @@
     "start_date_local": "2026-06-22T18:48:57",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 12106.4296875,
+    "elevation_gain": 36.0,
+    "id": "23357374720",
+    "moving_time": 3368.6190185546875,
+    "name": "Cordoba - CR 3'\ud83d\udd25 + 3' \ud83d\udc22 (x6)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-23T18:42:48",
+    "type": "Run",
+    "year": 2026
   }
 ]
