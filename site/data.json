@@ -11573,6 +11573,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23398254685",
       "year": 2026
+    },
+    {
+      "date": "2026-07-06",
+      "hour": 18,
+      "name": "Cordoba Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23504887711",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21426,6 +21435,15 @@
           "distance": 8128.66015625,
           "elevation_gain": 21.0,
           "moving_time": 2394.3399963378906
+        },
+        "2026-07-06": {
+          "activity_ids": [
+            "23504887711"
+          ],
+          "count": 1,
+          "distance": 7219.60009765625,
+          "elevation_gain": 6.0,
+          "moving_time": 2108.3469848632812
         }
       },
       "TrailRun": {
@@ -21970,7 +21988,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-07-06T17:40:52.629785+00:00",
+  "generated_at": "2026-07-07T17:11:33.082087+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
