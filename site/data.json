@@ -11582,6 +11582,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23504887711",
       "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 18,
+      "name": "Cordoba - Farlek por tiempo",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23516775932",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21444,6 +21453,15 @@
           "distance": 7219.60009765625,
           "elevation_gain": 6.0,
           "moving_time": 2108.3469848632812
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "23516775932"
+          ],
+          "count": 1,
+          "distance": 9894.740234375,
+          "elevation_gain": 27.0,
+          "moving_time": 2775.5360107421875
         }
       },
       "TrailRun": {
@@ -21988,7 +22006,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-07-07T17:11:33.082087+00:00",
+  "generated_at": "2026-07-08T16:28:08.293773+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
