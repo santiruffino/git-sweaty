@@ -16768,5 +16768,18 @@
     "start_date_local": "2026-07-11T18:14:29",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 8474.4296875,
+    "elevation_gain": 22.0,
+    "id": "23587603075",
+    "moving_time": 2259.467987060547,
+    "name": "Cordoba - Pasadas Medias",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-13T18:44:07",
+    "type": "Run",
+    "year": 2026
   }
 ]
