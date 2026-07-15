@@ -16781,5 +16781,31 @@
     "start_date_local": "2026-07-13T18:44:07",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 13199.7998046875,
+    "elevation_gain": 48.0,
+    "id": "23600477196",
+    "moving_time": 3965.89501953125,
+    "name": "Cordoba - Easy Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-14T18:40:17",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23606480246",
+    "moving_time": 2412.610107421875,
+    "name": "Fuerza",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-07-15T08:19:05",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
