@@ -16846,5 +16846,44 @@
     "start_date_local": "2026-07-23T18:24:58",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23719942320",
+    "moving_time": 2927.405029296875,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-07-24T17:31:15",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 1423.219970703125,
+    "elevation_gain": 0.0,
+    "id": "23727540179",
+    "moving_time": 431.3450012207031,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-25T09:04:51",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 10011.5302734375,
+    "elevation_gain": 12.0,
+    "id": "23727542745",
+    "moving_time": 2425.095993041992,
+    "name": "Cordoba - Fondo 10k simulacro carrera",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-25T09:25:37",
+    "type": "Run",
+    "year": 2026
   }
 ]
