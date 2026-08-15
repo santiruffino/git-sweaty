@@ -11834,6 +11834,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23968162536",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 9,
+      "name": "Cordoba - The last dance",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/23986890350",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21845,6 +21854,15 @@
           "distance": 8068.080078125,
           "elevation_gain": 31.0,
           "moving_time": 2450.6539916992188
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "23986890350"
+          ],
+          "count": 1,
+          "distance": 11797.080078125,
+          "elevation_gain": 74.0,
+          "moving_time": 3232.5650024414062
         }
       },
       "TrailRun": {
@@ -22452,7 +22470,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-08-14T15:48:04.556986+00:00",
+  "generated_at": "2026-08-15T15:17:08.217935+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",

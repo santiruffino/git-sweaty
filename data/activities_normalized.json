@@ -17093,5 +17093,18 @@
     "start_date_local": "2026-08-13T19:29:46",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 11797.080078125,
+    "elevation_gain": 74.0,
+    "id": "23986890350",
+    "moving_time": 3232.5650024414062,
+    "name": "Cordoba - The last dance",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-15T09:11:40",
+    "type": "Run",
+    "year": 2026
   }
 ]
