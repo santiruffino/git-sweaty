@@ -11843,6 +11843,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/23986890350",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 19,
+      "name": "Col\u00f3n - 2x3k",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24029612574",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21863,6 +21872,15 @@
           "distance": 11797.080078125,
           "elevation_gain": 74.0,
           "moving_time": 3232.5650024414062
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "24029612574"
+          ],
+          "count": 1,
+          "distance": 10111.0498046875,
+          "elevation_gain": 31.0,
+          "moving_time": 2782.6430053710938
         }
       },
       "TrailRun": {
@@ -22470,7 +22488,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-08-18T15:28:18.271135+00:00",
+  "generated_at": "2026-08-19T15:27:46.484196+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",

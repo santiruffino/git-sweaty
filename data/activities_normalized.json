@@ -17106,5 +17106,18 @@
     "start_date_local": "2026-08-15T09:11:40",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 10111.0498046875,
+    "elevation_gain": 31.0,
+    "id": "24029612574",
+    "moving_time": 2782.6430053710938,
+    "name": "Col\u00f3n - 2x3k",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-18T19:04:21",
+    "type": "Run",
+    "year": 2026
   }
 ]
