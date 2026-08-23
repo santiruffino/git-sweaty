@@ -17145,5 +17145,18 @@
     "start_date_local": "2026-08-20T18:27:59",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 21263.140625,
+    "elevation_gain": 72.0,
+    "id": "24084986965",
+    "moving_time": 5298.444995880127,
+    "name": "Buenos Aires City - Media Maraton de Buenos Aires #2",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-23T08:01:50",
+    "type": "Run",
+    "year": 2026
   }
 ]

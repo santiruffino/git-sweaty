@@ -11870,6 +11870,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24054557695",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 8,
+      "name": "Buenos Aires City - Media Maraton de Buenos Aires #2",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24084986965",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21908,6 +21917,15 @@
           "distance": 9667.51953125,
           "elevation_gain": 37.0,
           "moving_time": 3209.7479858398438
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "24084986965"
+          ],
+          "count": 1,
+          "distance": 21263.140625,
+          "elevation_gain": 72.0,
+          "moving_time": 5298.444995880127
         }
       },
       "TrailRun": {
@@ -22524,7 +22542,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-08-22T15:17:22.483918+00:00",
+  "generated_at": "2026-08-23T15:18:48.788164+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
