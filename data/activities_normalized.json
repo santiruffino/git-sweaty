@@ -17262,5 +17262,18 @@
     "start_date_local": "2026-09-05T08:15:17",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24302420992",
+    "moving_time": 882.4550170898438,
+    "name": "Total Body Muscle",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-09-09T17:26:57",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
