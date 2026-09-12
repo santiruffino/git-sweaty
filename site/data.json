@@ -11960,6 +11960,24 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/24302420992",
       "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 18,
+      "name": "Cordoba Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24327176909",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 16,
+      "name": "Punilla Trail Running",
+      "subtype": "trail_running",
+      "type": "TrailRun",
+      "url": "https://connect.garmin.com/modern/activity/24327180024",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22043,6 +22061,15 @@
           "distance": 9270.1201171875,
           "elevation_gain": 16.0,
           "moving_time": 3097.4850158691406
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "24327176909"
+          ],
+          "count": 1,
+          "distance": 6005.3701171875,
+          "elevation_gain": 24.0,
+          "moving_time": 1873.864990234375
         }
       },
       "TrailRun": {
@@ -22261,6 +22288,15 @@
           "distance": 17020.44921875,
           "elevation_gain": 830.0,
           "moving_time": 7279.898010253906
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "24327180024"
+          ],
+          "count": 1,
+          "distance": 18826.869140625,
+          "elevation_gain": 901.0,
+          "moving_time": 9061.230987548828
         }
       },
       "VirtualRun": {
@@ -22704,7 +22740,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-09-11T18:09:23.635980+00:00",
+  "generated_at": "2026-09-12T17:40:42.399703+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",

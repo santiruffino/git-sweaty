@@ -17275,5 +17275,31 @@
     "start_date_local": "2026-09-09T17:26:57",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 6005.3701171875,
+    "elevation_gain": 24.0,
+    "id": "24327176909",
+    "moving_time": 1873.864990234375,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-10T18:17:14",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 18826.869140625,
+    "elevation_gain": 901.0,
+    "id": "24327180024",
+    "moving_time": 9061.230987548828,
+    "name": "Punilla Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-09-11T16:54:55",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
