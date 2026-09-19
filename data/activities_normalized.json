@@ -17340,5 +17340,18 @@
     "start_date_local": "2026-09-17T19:04:04",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 16008.240234375,
+    "elevation_gain": 834.0,
+    "id": "24420338407",
+    "moving_time": 6606.72998046875,
+    "name": "Punilla - Fondo Especifico 19/09",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-09-19T08:16:00",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

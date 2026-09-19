@@ -12005,6 +12005,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24401717572",
       "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 8,
+      "name": "Punilla - Fondo Especifico 19/09",
+      "subtype": "trail_running",
+      "type": "TrailRun",
+      "url": "https://connect.garmin.com/modern/activity/24420338407",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22351,6 +22360,15 @@
           "distance": 5317.509765625,
           "elevation_gain": 321.0,
           "moving_time": 2561.5480041503906
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "24420338407"
+          ],
+          "count": 1,
+          "distance": 16008.240234375,
+          "elevation_gain": 834.0,
+          "moving_time": 6606.72998046875
         }
       },
       "VirtualRun": {
@@ -22794,7 +22812,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-09-18T18:03:19.735977+00:00",
+  "generated_at": "2026-09-19T17:44:56.724112+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
