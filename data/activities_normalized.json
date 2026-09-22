@@ -17353,5 +17353,18 @@
     "start_date_local": "2026-09-19T08:16:00",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 7874.7998046875,
+    "elevation_gain": 3.0,
+    "id": "24450395432",
+    "moving_time": 2532.383026123047,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-21T20:17:27",
+    "type": "Run",
+    "year": 2026
   }
 ]
