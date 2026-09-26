@@ -17405,5 +17405,31 @@
     "start_date_local": "2026-09-24T19:02:39",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24503001226",
+    "moving_time": 3261.759033203125,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-09-25T17:34:14",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 21151.75,
+    "elevation_gain": 978.0,
+    "id": "24507095171",
+    "moving_time": 8584.001983642578,
+    "name": "Punilla - Fondo Especifico - 25/09",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-09-26T07:19:29",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
