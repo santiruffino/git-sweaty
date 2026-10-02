@@ -17457,5 +17457,31 @@
     "start_date_local": "2026-09-29T19:16:15",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24571420877",
+    "moving_time": 3630.989013671875,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-09-30T17:24:22",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 6912.9599609375,
+    "elevation_gain": 22.0,
+    "id": "24571873966",
+    "moving_time": 1948.0029907226562,
+    "name": "Cordoba - CR 2'\ud83d\udd25 + 3' \ud83d\udc22 (x6)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-01T17:43:02",
+    "type": "Run",
+    "year": 2026
   }
 ]
