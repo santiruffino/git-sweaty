@@ -12113,6 +12113,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24620678689",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 18,
+      "name": "Cordoba - CR 2'\ud83d\udd25 + 3' \ud83d\udc22 (x6)",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24633075806",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 8,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/24639113364",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22268,6 +22286,15 @@
           "distance": 10013.25,
           "elevation_gain": 57.0,
           "moving_time": 3174.9199829101562
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "24633075806"
+          ],
+          "count": 1,
+          "distance": 8800.0400390625,
+          "elevation_gain": 28.0,
+          "moving_time": 2459.0
         }
       },
       "TrailRun": {
@@ -22994,6 +23021,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3630.989013671875
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "24639113364"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2535.427978515625
         }
       },
       "multi_sport": {
@@ -23010,7 +23046,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-10-06T19:57:59.637192+00:00",
+  "generated_at": "2026-10-07T20:24:15.474740+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
