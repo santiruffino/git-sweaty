@@ -17522,5 +17522,18 @@
     "start_date_local": "2026-10-07T08:45:54",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 2738.989990234375,
+    "elevation_gain": 69.0,
+    "id": "24678430577",
+    "moving_time": 906.0,
+    "name": "Calamuchita Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-10T16:28:45",
+    "type": "Run",
+    "year": 2026
   }
 ]
