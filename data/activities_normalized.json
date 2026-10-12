@@ -17535,5 +17535,18 @@
     "start_date_local": "2026-10-10T16:28:45",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 26831.6796875,
+    "elevation_gain": 1206.0,
+    "id": "24690218588",
+    "moving_time": 10701.470001220703,
+    "name": "Calamuchita - 26 km",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-10-11T05:30:09",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

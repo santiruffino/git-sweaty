@@ -12140,6 +12140,15 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24678430577",
       "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 5,
+      "name": "Calamuchita - 26 km",
+      "subtype": "trail_running",
+      "type": "TrailRun",
+      "url": "https://connect.garmin.com/modern/activity/24690218588",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -22585,6 +22594,15 @@
           "distance": 8058.259765625,
           "elevation_gain": 153.0,
           "moving_time": 2801.7359924316406
+        },
+        "2026-10-11": {
+          "activity_ids": [
+            "24690218588"
+          ],
+          "count": 1,
+          "distance": 26831.6796875,
+          "elevation_gain": 1206.0,
+          "moving_time": 10701.470001220703
         }
       },
       "VirtualRun": {
@@ -23064,7 +23082,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-10-11T19:19:23.132931+00:00",
+  "generated_at": "2026-10-12T22:22:45.777012+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",
