@@ -17587,5 +17587,18 @@
     "start_date_local": "2026-10-16T17:51:46",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 24375.82900238037,
+    "elevation_gain": 98.0,
+    "id": "24769563714",
+    "moving_time": 5459.088066101074,
+    "name": "Cordoba Multisport",
+    "raw_activity_type": "multi_sport",
+    "raw_type": "multi_sport",
+    "start_date_local": "2026-10-18T10:26:45",
+    "type": "multi_sport",
+    "year": 2026
   }
 ]
