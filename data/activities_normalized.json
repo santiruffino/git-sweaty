@@ -17613,5 +17613,31 @@
     "start_date_local": "2026-10-19T18:47:22",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 9458.98046875,
+    "elevation_gain": 30.0,
+    "id": "24796895173",
+    "moving_time": 2685.9129943847656,
+    "name": "Cordoba - 2x2k + 5' activo",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-20T19:14:36",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "24801845556",
+    "moving_time": 2694.60888671875,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-10-21T08:07:17",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
