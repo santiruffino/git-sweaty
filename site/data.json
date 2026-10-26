@@ -12239,6 +12239,24 @@
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/24829228536",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 13,
+      "name": "Cordoba - Entreno 25/10 bici",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24850981921",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 15,
+      "name": "Cordoba Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24850982884",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -21462,6 +21480,15 @@
           "distance": 30055.369140625,
           "elevation_gain": 104.0,
           "moving_time": 4831.399963378906
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "24850981921"
+          ],
+          "count": 1,
+          "distance": 34331.33984375,
+          "elevation_gain": 128.0,
+          "moving_time": 5579.4629418849945
         }
       },
       "Run": {
@@ -22466,6 +22493,15 @@
           "distance": 8032.43017578125,
           "elevation_gain": 14.0,
           "moving_time": 2559.0390014648438
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "24850982884"
+          ],
+          "count": 1,
+          "distance": 9011.8896484375,
+          "elevation_gain": 47.0,
+          "moving_time": 2477.9940490722656
         }
       },
       "TrailRun": {
@@ -23262,7 +23298,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-10-25T18:06:06.612151+00:00",
+  "generated_at": "2026-10-26T20:17:13.303560+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",

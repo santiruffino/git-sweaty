@@ -17678,5 +17678,31 @@
     "start_date_local": "2026-10-23T17:15:36",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 34331.33984375,
+    "elevation_gain": 128.0,
+    "id": "24850981921",
+    "moving_time": 5579.4629418849945,
+    "name": "Cordoba - Entreno 25/10 bici",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-25T13:42:11",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 9011.8896484375,
+    "elevation_gain": 47.0,
+    "id": "24850982884",
+    "moving_time": 2477.9940490722656,
+    "name": "Cordoba Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-25T15:19:26",
+    "type": "Run",
+    "year": 2026
   }
 ]
