@@ -17821,5 +17821,18 @@
     "start_date_local": "2026-11-06T17:31:16",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 20903.599609375,
+    "elevation_gain": 168.0,
+    "id": "25001709815",
+    "moving_time": 4113.0,
+    "name": "Cordoba Cycling",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-11-07T15:35:26",
+    "type": "Ride",
+    "year": 2026
   }
 ]
