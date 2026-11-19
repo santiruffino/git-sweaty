@@ -12387,10 +12387,37 @@
     {
       "date": "2026-11-16",
       "hour": 18,
-      "name": "Cordoba Running",
+      "name": "Easy Run",
       "subtype": "running",
       "type": "Run",
       "url": "https://connect.garmin.com/modern/activity/25102966902",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-17",
+      "hour": 18,
+      "name": "EC + 3x9' + VC",
+      "subtype": "trail_running",
+      "type": "TrailRun",
+      "url": "https://connect.garmin.com/modern/activity/25125305255",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 8,
+      "name": "Strength",
+      "subtype": "strength_training",
+      "type": "WeightTraining",
+      "url": "https://connect.garmin.com/modern/activity/25125305658",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 17,
+      "name": "Easy Bike",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/25125306483",
       "year": 2026
     }
   ],
@@ -21642,6 +21669,15 @@
           "distance": 20903.599609375,
           "elevation_gain": 168.0,
           "moving_time": 4113.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "25125306483"
+          ],
+          "count": 1,
+          "distance": 19608.75,
+          "elevation_gain": 119.0,
+          "moving_time": 3647.9500122070312
         }
       },
       "Run": {
@@ -22991,6 +23027,15 @@
           "distance": 26831.6796875,
           "elevation_gain": 1206.0,
           "moving_time": 10701.470001220703
+        },
+        "2026-11-17": {
+          "activity_ids": [
+            "25125305255"
+          ],
+          "count": 1,
+          "distance": 8287.419921875,
+          "elevation_gain": 207.0,
+          "moving_time": 2896.3890075683594
         }
       },
       "VirtualRun": {
@@ -23526,6 +23571,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1415.0439453125
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "25125305658"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3209.26708984375
         }
       },
       "multi_sport": {
@@ -23560,7 +23614,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
-  "generated_at": "2026-11-18T22:28:03.921318+00:00",
+  "generated_at": "2026-11-19T22:33:14.304577+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/4bfe6725-e0d4-4151-8234-3b702a7263cf",
   "repo": "santiruffino/git-sweaty",

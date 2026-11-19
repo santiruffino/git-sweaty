@@ -17893,11 +17893,50 @@
     "elevation_gain": 117.0,
     "id": "25102966902",
     "moving_time": 4061.5029907226562,
-    "name": "Cordoba Running",
+    "name": "Easy Run",
     "raw_activity_type": "running",
     "raw_type": "running",
     "start_date_local": "2026-11-16T18:56:16",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 8287.419921875,
+    "elevation_gain": 207.0,
+    "id": "25125305255",
+    "moving_time": 2896.3890075683594,
+    "name": "EC + 3x9' + VC",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-11-17T18:29:06",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "25125305658",
+    "moving_time": 3209.26708984375,
+    "name": "Strength",
+    "raw_activity_type": "strength_training",
+    "raw_type": "strength_training",
+    "start_date_local": "2026-11-18T08:12:33",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 19608.75,
+    "elevation_gain": 119.0,
+    "id": "25125306483",
+    "moving_time": 3647.9500122070312,
+    "name": "Easy Bike",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-11-18T17:52:02",
+    "type": "Ride",
     "year": 2026
   }
 ]
