@@ -17938,5 +17938,18 @@
     "start_date_local": "2026-11-18T17:52:02",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 16006.6201171875,
+    "elevation_gain": 793.0,
+    "id": "25152463316",
+    "moving_time": 7531.9169921875,
+    "name": "Punilla Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-11-21T08:11:35",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
