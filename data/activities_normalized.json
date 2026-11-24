@@ -17964,5 +17964,18 @@
     "start_date_local": "2026-11-23T11:05:21",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 9540.5400390625,
+    "elevation_gain": 240.0,
+    "id": "25189841005",
+    "moving_time": 3136.990997314453,
+    "name": "Cordoba - EC + 3x9' \u26f0\ufe0f + VC",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-11-24T18:54:46",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
